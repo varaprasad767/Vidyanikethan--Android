@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SvecStudentRegForm</string>
+
+
+    <string-array name="branches">
+        <item>CSE</item>
+        <item>ECE</item>
+        <item>MECHANICAL</item>
+        <item>CIVIL</item>
+        <item>IT</item>
+        <item>EEE</item>
+        <item>PH.D</item>
+    </string-array>
+
+    <string-array name="districts">
+        <item>Guntur</item>
+        <item>Prakasam</item>
+        <item>Nellore</item>
+        <item>East-Godavari</item>
+        <item>West-Godavari</item>
+        <item>Krishna</item>
+        <item>Chittoor</item>
+        <item>Visakapatnam</item>
+        <item>Vizayanaram</item>
+        <item>Kadapa</item>
+        <item>Kurnool</item>
+        <item>Ananthapur</item>
+        <item>Srikakulam</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+</resources>
